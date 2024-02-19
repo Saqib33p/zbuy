@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516249777171",
+    "project_id": "zbuy-c272e",
+    "storage_bucket": "zbuy-c272e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516249777171:android:b96a8236e58deb5391fbe6",
+        "android_client_info": {
+          "package_name": "com.example.zbuy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo1Nf-oCiwVmuleZ4C-ZCqPZ5NYoWyBsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
